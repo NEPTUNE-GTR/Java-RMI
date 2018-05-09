@@ -1,4 +1,7 @@
-#Remote method invocation with java
+Remote method invocation with java
+
+RMI allows the communication between more than one distributed objects, with the goal being to allow objects to use methods and access data on remote objects  
+
 
 
 Instructions on how to run the java RMI implementation of the Daytime client & server:
