@@ -1,3 +1,6 @@
+#Remote method invocation with java
+
+
 Instructions on how to run the java RMI implementation of the Daytime client & server:
 -all of the file are ran on crow.cs.umanitoba.ca
 
